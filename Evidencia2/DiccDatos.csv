@@ -1,0 +1,95 @@
+Variable,Descripción,Respuesta,Valor
+,,,
+No.,Número de visitas realizadas,-,-
+Mes,Mes de realización de la visita,-,-
+Delegación,Delegación del IMSS en los estados dónde se encuentra ubicada la guardería,-,-
+Localidad ,Lugar de la Delegación en la cúal se encuentra ubicada la guardería,-,-
+Esquema,,-,-
+,C= En el Campo,-,-
+,G= Ordinario,-,-
+,M= Madres IMSS,-,-
+,R= Reversión de Cuotas,-,-
+,U= Vecinal Comunitario Único,-,-
+,Y= Guardería Integradora,-,-
+Número,Número asignado a la guardería,-,-
+Nombre,Nombre asignado a la guardería,-,-
+2.1,¿Les mostraron la Cédula de Seguridad y Protección Civil? ,Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+2.2,"¿La Cédula de Seguridad y Protección Civil, está firmada por el  Delegado del IMSS y por el representante legal de la Guardería?",Si,
+2.3,¿Les mostraron el Programa Interno de Protección Civil de la Guardería? ,Si,
+2.4,¿El Programa Interno de Protección Civil de la Guardería está sellado y firmado por la autoridad de Protección Civil del municipio?,Si,
+2.5,¿El Programa Interno de Protección Civil de la Guardería muestra la fecha en que fue emitido?,Si,
+2.6,Indique en qué fecha se emitió: día______ mes__  año______,Si,
+2.7,¿Les hicieron una breve explicación del Programa Interno de Protección Civil (con una duración máxima de 5 minutos)?,Si,
+2.8,¿Les mostraron un documento en el que se lleva el registro de los simulacros que realiza la Guardería?,Si,
+2.9,"¿Según este registro de simulacros, el último de estos ejercicios se realizó hace cuatro semanas o menos?",Si,
+2.1,"¿Según este registro de simulacros, el último simulacro se realizó en  3 minutos o menos?",Si,
+2.11,"¿Les mostraron un directorio de números telefónicos de emergencia (policía, bomberos, Cruz Roja, protección civil)?",Si,
+2.12,¿Les mostraron certificados o constancias de capacitación en protección civil de las personas que trabajan en la Guardería? (Documentos que avalen que todas las personas que laboran en la Guardería recibieron capacitación en el uso de extintores o  procedimientos de evacuación. Estos documentos deben incluir el nombre de los funcionarios que fueron capacitados y una lista completa de las personas que trabajan en la guardería.),Si,
+3.1,"¿Los jefes de la brigadas de protección civil, se presentaron con los padres de familia y explicaron la función que a cada uno corresponde  desempeñar en una situación de emergencia?",Si,
+3.2,¿Los jefes de cada brigada mostraron a los padres de familia su equipo y señas que utilizarían en un caso de emergencia?,Si,
+5.1,En la entrada de la Guardería se observa la presencia de un vigilante?,Si,
+5.2,"¿El vigilante solicita a toda persona que visita la guardería, que se identifique y registre?",Si,
+5.3,"¿Al ingresar el niño o la niña, es registrada su asistencia?",Si,
+5.4,"¿El personal de pedagogía verifica que el niño o la niña ingrese a la guardería, despierto o despierta?",Si,
+5.5,"¿La enfermera revisa las condiciones en que llega el niño o la niña a la guardería (flujo nasal, tos, irritación ocular o de piel, hematomas o golpes)?",Si,
+5.6,"¿El  personal de pedagogía indica a los padres de niños y niñas lactantes que pasen a dejarlos a la sala correspondiente, y al niño o niña en edad maternal, dicho personal lo o la acompaña a la sala respectiva?",Si,
+5.7,"Cuando los padres de familia recogen a sus hijos, ¿se les informa sobre lo ocurrido al niño o la niña ese día? ",Si,
+5.8,¿La información anterior se les da a los padres por medio del control de “Información al usuario de la atención a los niños” (documento donde se comunica a los padres de familia y personas autorizadas sobre los sucesos ocurridos a sus hijos)?,Si,
+6.1,"¿La “charola muestra” (donde se exponen los alimentos que los niños y las niñas van a consumir durante el día, en cada tiempo de alimentación) y el menú del día, se encuentran a la vista? ",Si,
+6.2,¿Coincide la “charola muestra” con el menú del día?,Si,
+6.3,"¿La relación de niños que les corresponde aplicación de vacuna en el mes, está ubicada a la vista de los padres de familia?",Si,
+6.4,"¿El registro del peso y talla de los niños y las niñas, está colocado en un lugar a la vista de los padres de familia?",Si,
+6.5,"¿El área del vestíbulo cuenta por lo menos, con el siguiente mobiliario y equipo: buzón de quejas y sugerencias, repisa  para colocar charola muestra de alimentos, equipo de cómputo, lector del código de barras, charola de medicamentos, colchoneta y pizarrón con directorio de funcionarios del Departamento Delegacional de Guarderías?",Si,
+7.1,¿En las salas de atención visitadas se vio la presencia de por lo menos una persona del servicio de pedagogía para el cuidado y vigilancia constante de los niños y las niñas?,Si,
+7.2,"¿En algún momento se percató de que algún niño o alguna niña recorriera pasillos, sin la supervisión de un adulto?",No,
+7.3,"De acuerdo a su experiencia personal, ¿se observa que los juguetes educativos son de material resistente, no tóxico y se encuentran en condiciones de uso?",Si,
+7.4,"¿El personal educativo que interactúa con los niños y las niñas, se encuentra aseado, portando uniforme distintivo y sin accesorios (aretes, pulseras, anillos, prendedores)?",Si,
+8.1,"¿La enfermera o auxiliar de enfermería, se observa aseada, sin accesorios (aretes, anillos, pulseras, prendedores), portando uniforme limpio y en buen estado?",Si,
+8.2,"¿El área se observa limpia, equipada con el material de curación y los medicamentos de los niños y niñas con prescripción médica?",Si,
+9.1,"¿El personal de la cocina se aprecia pulcro, sin accesorios (aretes, pulseras, anillos, prendedores), portando uniforme, con cabello recogido, cubierto y con cubre boca en caso de tener bigote o encontrarse en el lactario?",Si,
+9.2,¿Los accesos al área de cocina están  restringidos (sólo puede pasar el personal de la Guardería) y se mantienen con las puertas cerradas?,Si,
+9.3,¿La cocina es un área restringida para uso exclusivo del personal del servicio de alimentación y lejana a las salas de atención?,Si,
+9.4,"(9.4) ¿La cocina se observa equipada, limpia y ordenada?",Si,
+10.1,¿Los pisos son de material antiderrapante (que evite que los niños y las niñas resbalen)?,Si,
+10.2,"En caso de haber escaleras en la guardería, ¿éstas cuentan con material antiderrapante (que evite que los niños y las niñas  resbalen)? Si no hay escalera, responda SI",Si,
+10.3,¿Los accesos a los sépticos (área donde se lavan y guardan los materiales y artículos de limpieza) se encuentran cerrados y el acceso es restringido (sólo puede pasar el personal de la Guardería autorizado)?,Si,
+10.4,¿Los patios de servicio se encuentran cerrados y el acceso es restringido (sólo puede pasar el personal de la Guardería autorizado)?,Si,
+10.5,¿Los depósitos de basura se encuentran cerrados y el acceso es restringido (sólo puede pasar el personal de la Guardería)?,Si,
+10.6,¿La bodega general se encuentra cerrada y el acceso es restringido (sólo puede pasar el personal de la Guardería)?,Si,
+10.7," ¿Las áreas de descanso del personal se encuentran cerradas, señalizadas y el acceso es restringido (sólo puede pasar el personal de la Guardería)?",Si,
+10.8,"¿Las áreas de ropa limpia y ropa sucia se encuentran cerradas, señalizadas y el acceso es restringido (sólo puede pasar el personal de la Guardería)?",Si,
+10.9,¿El personal de la guardería porta uniforme distintivo por servicio?,Si,
+11.1,"¿La alarma cuenta con sirena y destellos de luz de alta intensidad, que sirven para alertar la existencia de un peligro o riesgo?",Si,
+11.2,¿La guardería cuenta con una o más “lámparas de iluminación de emergencia” que se encienden cuando se va la luz? ,Si,
+11.3,"¿Las lámparas de iluminación de emergencia, están ubicadas en las rutas de evacuación?",Si,
+11.4,¿Dichas lámparas se localizan en espacios de la Guardería en los que la ausencia de luz artificial representaría un riesgo? ,Si,
+11.5,"¿Hay alguna sala, salón o aula en la Guardería que no tenga detector de humo?",No,
+11.6,¿Hay algún pasillo cerrado en la Guardería que no tenga detector de humo?,No,
+11.7,¿Hay algún área de uso común de la Guardería que no tenga detector de humo?,No,
+11.8,¿Hay algún extintor de la Guardería que esté en un lugar poco visible? ,No,
+11.9,¿Hay algún extintor de la Guardería que no esté señalizado (que no tenga un letrero que indique que ese es un extintor)?,No,
+11.1,¿Hay algún extintor que esté ubicado en un área que sea de difícil acceso?,No,
+11.11,¿Hay algún extintor que esté muy lejos de una puerta?,No,
+11.12,¿Las rutas de evacuación de la guardería están señalizadas? ,Si,
+11.13,¿Existe algún obstáculo (que impida el paso) en alguna de las rutas de evacuación?,No,
+11.14,¿Existe alguna ruta de evacuación por la que no sea posible la circulación de dos personas adultas al mismo tiempo?,No,
+11.15, ¿Las tuberías de gas están pintadas de algún color de seguridad?,Si,
+11.16,¿Detectan ustedes algún enchufe que parezca sobre-utilizado o sobrecargado (con 3 contactos o más)?,No,
+12.1,¿Existe al menos una salida de emergencia independientemente de la puerta de acceso?,Si,
+12.2,¿Todas las rutas de evacuación y salidas de emergencia están despejadas (ninguna está obstruida por algún objeto que pudiera dificultar la evacuación de las personas dentro de la Guardería)?,Si,
+12.3,¿Todas las salidas de emergencia pueden ser abiertas con facilidad (ninguna está cerrada con llave o con candado)?,Si,
+12.4,"Cuando se empuja la barra de pánico de las salidas de emergencia, ¿todas funcionan correctamente (se abre la puerta)?",Si,
+12.5,"Cuando se abren las puertas de emergencia, ¿se activa un sensor de apertura de manera automática (una alarma) en cada una?",Si,
+12.6,¿Los puntos de reunión que se utilizan para el caso de una evacuación se encuentran claramente señalizados y libres de obstáculos?,Si,
+12.7,"¿Alguna de las puertas de emergencia tiene salida hacia una vía rápida (una avenida, un bulevar, una calzada, una autopista, vías del tren, trenes rápidos, trenes ligeros, trolebuses, entre otros)?",S/V,"Si la respuesta es Sí, el reactivo 12.8 se valida.
+Si la respuesta es No, el reactivo 12.8 se invalida"
+12.8,"¿Si alguna de las puertas de emergencia tiene salida hacia una vía rápida, cuenta con algún medio de contención (por ejemplo, una malla)?",Si,"1= Respuesta Favorable
+0= Respuesta No Favorable"
+14.1,¿Se llevó a cabo el simulacro de evacuación en su presencia?,Si,
+14.2,¿La guardería fue evacuada en 3 minutos o menos? (Para medir el tiempo de evacuación es necesario empezar a contar desde que se activa la alarma hasta que los menores y adultos se encuentran todos en el punto de reunión.),Si,
+Puntos máximos,Total de puntos que puede alcanzar una guardería en una visita (70 ó 71),-,-
+Puntos alcanzados,Total de puntos reales alcanzados en una visita,-,-
+%,Nivel de cumplimiento de las medidas de seguridad integral según la percpeción de los padres participantes (Puntos alcanzados/Puntos máximos)*100,-,-
+No. de Padres,Número de padres de familia que asisitieron a la visita,-,-
+Horas ,Suma de las horas invertidas por los padres de familia participantes en un visita,-,-
