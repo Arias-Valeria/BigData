@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "EvidenciaFinal_BG", "EvidenciaFinal_BG.pyproj", "{A7D9C629-A504-4602-BD8A-357BD8C80C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7D9C629-A504-4602-BD8A-357BD8C80C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D9C629-A504-4602-BD8A-357BD8C80C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E590D0E-CC81-434F-A096-918CC9E45262}
+	EndGlobalSection
+EndGlobal
